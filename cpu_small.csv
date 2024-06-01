@@ -1,4 +1,4 @@
-lread;lwrite;scall;sread;swrite;fork;exec;rchar;wchar;runqsz;freemem;freeswap;usr
+﻿lread;lwrite;scall;sread;swrite;fork;exec;rchar;wchar;runqsz;freemem;freeswap;usr
 6;2;1036;103;114;1;1;172076;355965;2;6527;1851864;90
 1;0;2165;205;101;0,4;1,2;43107;44139;3;130;1131931;88
 62;77;3806;258;166;1,4;1,4;492142;268706;5,2;256;1314590;85
