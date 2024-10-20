@@ -1,0 +1,1667 @@
+[
+  {
+    "Departamento1": "Bogot�",
+    "Meses": "Enero",
+    "A�reo": 405823,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 405823
+  },
+  {
+    "Departamento1": "Bogot�",
+    "Meses": "Febrero",
+    "A�reo": 407158,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 407158
+  },
+  {
+    "Departamento1": "Bogot�",
+    "Meses": "Marzo",
+    "A�reo": 413599,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 413599
+  },
+  {
+    "Departamento1": "Bogot�",
+    "Meses": "Abril",
+    "A�reo": 360787,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 360787
+  },
+  {
+    "Departamento1": "Bogot�",
+    "Meses": "Mayo",
+    "A�reo": 344659,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 344659
+  },
+  {
+    "Departamento1": "Bogot�",
+    "Meses": "Junio",
+    "A�reo": 371605,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 371605
+  },
+  {
+    "Departamento1": "Bogot�",
+    "Meses": "Julio",
+    "A�reo": 419889,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 419889
+  },
+  {
+    "Departamento1": "Bogot�",
+    "Meses": "Agosto",
+    "A�reo": 462031,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 462031
+  },
+  {
+    "Departamento1": "Bogot�",
+    "Meses": "Septiembre",
+    "A�reo": 390731,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 390731
+  },
+  {
+    "Departamento1": "Antioqu�a",
+    "Meses": "Enero",
+    "A�reo": 149130,
+    "Fluvial": "",
+    "Mar�timo": 16,
+    "Terrestre": "",
+    "Total general": 149146
+  },
+  {
+    "Departamento1": "Antioqu�a",
+    "Meses": "Febrero",
+    "A�reo": 146446,
+    "Fluvial": "",
+    "Mar�timo": 7,
+    "Terrestre": "",
+    "Total general": 146453
+  },
+  {
+    "Departamento1": "Antioqu�a",
+    "Meses": "Marzo",
+    "A�reo": 146785,
+    "Fluvial": "",
+    "Mar�timo": 8,
+    "Terrestre": "",
+    "Total general": 146793
+  },
+  {
+    "Departamento1": "Antioqu�a",
+    "Meses": "Abril",
+    "A�reo": 141540,
+    "Fluvial": "",
+    "Mar�timo": 7,
+    "Terrestre": "",
+    "Total general": 141547
+  },
+  {
+    "Departamento1": "Antioqu�a",
+    "Meses": "Mayo",
+    "A�reo": 151137,
+    "Fluvial": "",
+    "Mar�timo": 14,
+    "Terrestre": "",
+    "Total general": 151151
+  },
+  {
+    "Departamento1": "Antioqu�a",
+    "Meses": "Junio",
+    "A�reo": 142513,
+    "Fluvial": "",
+    "Mar�timo": 2,
+    "Terrestre": "",
+    "Total general": 142515
+  },
+  {
+    "Departamento1": "Antioqu�a",
+    "Meses": "Julio",
+    "A�reo": 180261,
+    "Fluvial": "",
+    "Mar�timo": 7,
+    "Terrestre": "",
+    "Total general": 180268
+  },
+  {
+    "Departamento1": "Antioqu�a",
+    "Meses": "Agosto",
+    "A�reo": 182823,
+    "Fluvial": "",
+    "Mar�timo": 10,
+    "Terrestre": "",
+    "Total general": 182833
+  },
+  {
+    "Departamento1": "Antioqu�a",
+    "Meses": "Septiembre",
+    "A�reo": 149371,
+    "Fluvial": "",
+    "Mar�timo": 19,
+    "Terrestre": "",
+    "Total general": 149390
+  },
+  {
+    "Departamento1": "Bolivar",
+    "Meses": "Enero",
+    "A�reo": 108943,
+    "Fluvial": "",
+    "Mar�timo": 3751,
+    "Terrestre": "",
+    "Total general": 112694
+  },
+  {
+    "Departamento1": "Bolivar",
+    "Meses": "Febrero",
+    "A�reo": 107773,
+    "Fluvial": "",
+    "Mar�timo": 2754,
+    "Terrestre": "",
+    "Total general": 110527
+  },
+  {
+    "Departamento1": "Bolivar",
+    "Meses": "Marzo",
+    "A�reo": 112304,
+    "Fluvial": "",
+    "Mar�timo": 4817,
+    "Terrestre": "",
+    "Total general": 117121
+  },
+  {
+    "Departamento1": "Bolivar",
+    "Meses": "Abril",
+    "A�reo": 97353,
+    "Fluvial": "",
+    "Mar�timo": 3321,
+    "Terrestre": "",
+    "Total general": 100674
+  },
+  {
+    "Departamento1": "Bolivar",
+    "Meses": "Mayo",
+    "A�reo": 92929,
+    "Fluvial": "",
+    "Mar�timo": 1912,
+    "Terrestre": "",
+    "Total general": 94841
+  },
+  {
+    "Departamento1": "Bolivar",
+    "Meses": "Junio",
+    "A�reo": 96457,
+    "Fluvial": "",
+    "Mar�timo": 3121,
+    "Terrestre": "",
+    "Total general": 99578
+  },
+  {
+    "Departamento1": "Bolivar",
+    "Meses": "Julio",
+    "A�reo": 110598,
+    "Fluvial": "",
+    "Mar�timo": 2195,
+    "Terrestre": "",
+    "Total general": 112793
+  },
+  {
+    "Departamento1": "Bolivar",
+    "Meses": "Agosto",
+    "A�reo": 114766,
+    "Fluvial": "",
+    "Mar�timo": 1720,
+    "Terrestre": "",
+    "Total general": 116486
+  },
+  {
+    "Departamento1": "Bolivar",
+    "Meses": "Septiembre",
+    "A�reo": 92857,
+    "Fluvial": "",
+    "Mar�timo": 1961,
+    "Terrestre": "",
+    "Total general": 94818
+  },
+  {
+    "Departamento1": "Norte de Santander",
+    "Meses": "Enero",
+    "A�reo": 6218,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 28489,
+    "Total general": 34707
+  },
+  {
+    "Departamento1": "Norte de Santander",
+    "Meses": "Febrero",
+    "A�reo": 4464,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 21678,
+    "Total general": 26142
+  },
+  {
+    "Departamento1": "Norte de Santander",
+    "Meses": "Marzo",
+    "A�reo": 4660,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 19989,
+    "Total general": 24649
+  },
+  {
+    "Departamento1": "Norte de Santander",
+    "Meses": "Abril",
+    "A�reo": 3954,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 18640,
+    "Total general": 22594
+  },
+  {
+    "Departamento1": "Norte de Santander",
+    "Meses": "Mayo",
+    "A�reo": 3322,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 17531,
+    "Total general": 20853
+  },
+  {
+    "Departamento1": "Norte de Santander",
+    "Meses": "Junio",
+    "A�reo": 2799,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 17516,
+    "Total general": 20315
+  },
+  {
+    "Departamento1": "Norte de Santander",
+    "Meses": "Julio",
+    "A�reo": 2551,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 20047,
+    "Total general": 22598
+  },
+  {
+    "Departamento1": "Norte de Santander",
+    "Meses": "Agosto",
+    "A�reo": 6664,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 29312,
+    "Total general": 35976
+  },
+  {
+    "Departamento1": "Norte de Santander",
+    "Meses": "Septiembre",
+    "A�reo": 5870,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 32225,
+    "Total general": 38095
+  },
+  {
+    "Departamento1": "Valle del Cauca",
+    "Meses": "Enero",
+    "A�reo": 26614,
+    "Fluvial": "",
+    "Mar�timo": 807,
+    "Terrestre": "",
+    "Total general": 27421
+  },
+  {
+    "Departamento1": "Valle del Cauca",
+    "Meses": "Febrero",
+    "A�reo": 24867,
+    "Fluvial": "",
+    "Mar�timo": 1095,
+    "Terrestre": "",
+    "Total general": 25962
+  },
+  {
+    "Departamento1": "Valle del Cauca",
+    "Meses": "Marzo",
+    "A�reo": 22295,
+    "Fluvial": "",
+    "Mar�timo": 1264,
+    "Terrestre": "",
+    "Total general": 23559
+  },
+  {
+    "Departamento1": "Valle del Cauca",
+    "Meses": "Abril",
+    "A�reo": 20692,
+    "Fluvial": "",
+    "Mar�timo": 873,
+    "Terrestre": "",
+    "Total general": 21565
+  },
+  {
+    "Departamento1": "Valle del Cauca",
+    "Meses": "Mayo",
+    "A�reo": 19751,
+    "Fluvial": "",
+    "Mar�timo": 1053,
+    "Terrestre": "",
+    "Total general": 20804
+  },
+  {
+    "Departamento1": "Valle del Cauca",
+    "Meses": "Junio",
+    "A�reo": 23457,
+    "Fluvial": "",
+    "Mar�timo": 1190,
+    "Terrestre": "",
+    "Total general": 24647
+  },
+  {
+    "Departamento1": "Valle del Cauca",
+    "Meses": "Julio",
+    "A�reo": 23428,
+    "Fluvial": "",
+    "Mar�timo": 1089,
+    "Terrestre": "",
+    "Total general": 24517
+  },
+  {
+    "Departamento1": "Valle del Cauca",
+    "Meses": "Agosto",
+    "A�reo": 23515,
+    "Fluvial": "",
+    "Mar�timo": 1306,
+    "Terrestre": "",
+    "Total general": 24821
+  },
+  {
+    "Departamento1": "Valle del Cauca",
+    "Meses": "Septiembre",
+    "A�reo": 16337,
+    "Fluvial": "",
+    "Mar�timo": 1183,
+    "Terrestre": "",
+    "Total general": 17520
+  },
+  {
+    "Departamento1": "Nari�o",
+    "Meses": "Enero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 125,
+    "Terrestre": 13227,
+    "Total general": 13352
+  },
+  {
+    "Departamento1": "Nari�o",
+    "Meses": "Febrero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 88,
+    "Terrestre": 16537,
+    "Total general": 16625
+  },
+  {
+    "Departamento1": "Nari�o",
+    "Meses": "Marzo",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 178,
+    "Terrestre": 16487,
+    "Total general": 16665
+  },
+  {
+    "Departamento1": "Nari�o",
+    "Meses": "Abril",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 241,
+    "Terrestre": 12629,
+    "Total general": 12870
+  },
+  {
+    "Departamento1": "Nari�o",
+    "Meses": "Mayo",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 156,
+    "Terrestre": 14408,
+    "Total general": 14564
+  },
+  {
+    "Departamento1": "Nari�o",
+    "Meses": "Junio",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 127,
+    "Terrestre": 12565,
+    "Total general": 12692
+  },
+  {
+    "Departamento1": "Nari�o",
+    "Meses": "Julio",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 172,
+    "Terrestre": 18866,
+    "Total general": 19038
+  },
+  {
+    "Departamento1": "Nari�o",
+    "Meses": "Agosto",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 143,
+    "Terrestre": 26753,
+    "Total general": 26896
+  },
+  {
+    "Departamento1": "Nari�o",
+    "Meses": "Septiembre",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 91,
+    "Terrestre": 13780,
+    "Total general": 13871
+  },
+  {
+    "Departamento1": "Atlantico",
+    "Meses": "Enero",
+    "A�reo": 11419,
+    "Fluvial": "",
+    "Mar�timo": 109,
+    "Terrestre": "",
+    "Total general": 11528
+  },
+  {
+    "Departamento1": "Atlantico",
+    "Meses": "Febrero",
+    "A�reo": 12330,
+    "Fluvial": "",
+    "Mar�timo": 156,
+    "Terrestre": "",
+    "Total general": 12486
+  },
+  {
+    "Departamento1": "Atlantico",
+    "Meses": "Marzo",
+    "A�reo": 11670,
+    "Fluvial": "",
+    "Mar�timo": 209,
+    "Terrestre": "",
+    "Total general": 11879
+  },
+  {
+    "Departamento1": "Atlantico",
+    "Meses": "Abril",
+    "A�reo": 11360,
+    "Fluvial": "",
+    "Mar�timo": 151,
+    "Terrestre": "",
+    "Total general": 11511
+  },
+  {
+    "Departamento1": "Atlantico",
+    "Meses": "Mayo",
+    "A�reo": 10372,
+    "Fluvial": "",
+    "Mar�timo": 136,
+    "Terrestre": "",
+    "Total general": 10508
+  },
+  {
+    "Departamento1": "Atlantico",
+    "Meses": "Junio",
+    "A�reo": 12061,
+    "Fluvial": "",
+    "Mar�timo": 128,
+    "Terrestre": "",
+    "Total general": 12189
+  },
+  {
+    "Departamento1": "Atlantico",
+    "Meses": "Julio",
+    "A�reo": 11767,
+    "Fluvial": "",
+    "Mar�timo": 108,
+    "Terrestre": "",
+    "Total general": 11875
+  },
+  {
+    "Departamento1": "Atlantico",
+    "Meses": "Agosto",
+    "A�reo": 12935,
+    "Fluvial": "",
+    "Mar�timo": 283,
+    "Terrestre": "",
+    "Total general": 13218
+  },
+  {
+    "Departamento1": "Atlantico",
+    "Meses": "Septiembre",
+    "A�reo": 11995,
+    "Fluvial": "",
+    "Mar�timo": 264,
+    "Terrestre": "",
+    "Total general": 12259
+  },
+  {
+    "Departamento1": "La Guajira",
+    "Meses": "Enero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 112,
+    "Terrestre": 9702,
+    "Total general": 9814
+  },
+  {
+    "Departamento1": "La Guajira",
+    "Meses": "Febrero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 6923,
+    "Total general": 6923
+  },
+  {
+    "Departamento1": "La Guajira",
+    "Meses": "Marzo",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 3,
+    "Terrestre": 6099,
+    "Total general": 6102
+  },
+  {
+    "Departamento1": "La Guajira",
+    "Meses": "Abril",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 1,
+    "Terrestre": 5801,
+    "Total general": 5802
+  },
+  {
+    "Departamento1": "La Guajira",
+    "Meses": "Mayo",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 5624,
+    "Total general": 5624
+  },
+  {
+    "Departamento1": "La Guajira",
+    "Meses": "Junio",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 5196,
+    "Total general": 5196
+  },
+  {
+    "Departamento1": "La Guajira",
+    "Meses": "Julio",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 5,
+    "Terrestre": 5960,
+    "Total general": 5965
+  },
+  {
+    "Departamento1": "La Guajira",
+    "Meses": "Agosto",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 8,
+    "Terrestre": 10487,
+    "Total general": 10495
+  },
+  {
+    "Departamento1": "La Guajira",
+    "Meses": "Septiembre",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 1,
+    "Terrestre": 11342,
+    "Total general": 11343
+  },
+  {
+    "Departamento1": "Risaralda",
+    "Meses": "Enero",
+    "A�reo": 5037,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 5037
+  },
+  {
+    "Departamento1": "Risaralda",
+    "Meses": "Febrero",
+    "A�reo": 4298,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 4298
+  },
+  {
+    "Departamento1": "Risaralda",
+    "Meses": "Marzo",
+    "A�reo": 4116,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 4116
+  },
+  {
+    "Departamento1": "Risaralda",
+    "Meses": "Abril",
+    "A�reo": 3709,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 3709
+  },
+  {
+    "Departamento1": "Risaralda",
+    "Meses": "Mayo",
+    "A�reo": 3924,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 3924
+  },
+  {
+    "Departamento1": "Risaralda",
+    "Meses": "Junio",
+    "A�reo": 5362,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 5362
+  },
+  {
+    "Departamento1": "Risaralda",
+    "Meses": "Julio",
+    "A�reo": 6791,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 6791
+  },
+  {
+    "Departamento1": "Risaralda",
+    "Meses": "Agosto",
+    "A�reo": 6744,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 6744
+  },
+  {
+    "Departamento1": "Risaralda",
+    "Meses": "Septiembre",
+    "A�reo": 4227,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 4227
+  },
+  {
+    "Departamento1": "San Andr�s y Providencia",
+    "Meses": "Enero",
+    "A�reo": 3732,
+    "Fluvial": "",
+    "Mar�timo": 102,
+    "Terrestre": "",
+    "Total general": 3834
+  },
+  {
+    "Departamento1": "San Andr�s y Providencia",
+    "Meses": "Febrero",
+    "A�reo": 4369,
+    "Fluvial": "",
+    "Mar�timo": 226,
+    "Terrestre": "",
+    "Total general": 4595
+  },
+  {
+    "Departamento1": "San Andr�s y Providencia",
+    "Meses": "Marzo",
+    "A�reo": 4465,
+    "Fluvial": "",
+    "Mar�timo": 145,
+    "Terrestre": "",
+    "Total general": 4610
+  },
+  {
+    "Departamento1": "San Andr�s y Providencia",
+    "Meses": "Abril",
+    "A�reo": 4029,
+    "Fluvial": "",
+    "Mar�timo": 148,
+    "Terrestre": "",
+    "Total general": 4177
+  },
+  {
+    "Departamento1": "San Andr�s y Providencia",
+    "Meses": "Mayo",
+    "A�reo": 4294,
+    "Fluvial": "",
+    "Mar�timo": 105,
+    "Terrestre": "",
+    "Total general": 4399
+  },
+  {
+    "Departamento1": "San Andr�s y Providencia",
+    "Meses": "Junio",
+    "A�reo": 3926,
+    "Fluvial": "",
+    "Mar�timo": 14,
+    "Terrestre": "",
+    "Total general": 3940
+  },
+  {
+    "Departamento1": "San Andr�s y Providencia",
+    "Meses": "Julio",
+    "A�reo": 4184,
+    "Fluvial": "",
+    "Mar�timo": 78,
+    "Terrestre": "",
+    "Total general": 4262
+  },
+  {
+    "Departamento1": "San Andr�s y Providencia",
+    "Meses": "Agosto",
+    "A�reo": 4541,
+    "Fluvial": "",
+    "Mar�timo": 36,
+    "Terrestre": "",
+    "Total general": 4577
+  },
+  {
+    "Departamento1": "San Andr�s y Providencia",
+    "Meses": "Septiembre",
+    "A�reo": 3822,
+    "Fluvial": "",
+    "Mar�timo": 28,
+    "Terrestre": "",
+    "Total general": 3850
+  },
+  {
+    "Departamento1": "Magdalena",
+    "Meses": "Enero",
+    "A�reo": 1929,
+    "Fluvial": "",
+    "Mar�timo": 508,
+    "Terrestre": "",
+    "Total general": 2437
+  },
+  {
+    "Departamento1": "Magdalena",
+    "Meses": "Febrero",
+    "A�reo": 2166,
+    "Fluvial": "",
+    "Mar�timo": 336,
+    "Terrestre": "",
+    "Total general": 2502
+  },
+  {
+    "Departamento1": "Magdalena",
+    "Meses": "Marzo",
+    "A�reo": 2053,
+    "Fluvial": "",
+    "Mar�timo": 477,
+    "Terrestre": "",
+    "Total general": 2530
+  },
+  {
+    "Departamento1": "Magdalena",
+    "Meses": "Abril",
+    "A�reo": 1693,
+    "Fluvial": "",
+    "Mar�timo": 336,
+    "Terrestre": "",
+    "Total general": 2029
+  },
+  {
+    "Departamento1": "Magdalena",
+    "Meses": "Mayo",
+    "A�reo": 1806,
+    "Fluvial": "",
+    "Mar�timo": 567,
+    "Terrestre": "",
+    "Total general": 2373
+  },
+  {
+    "Departamento1": "Magdalena",
+    "Meses": "Junio",
+    "A�reo": 1582,
+    "Fluvial": "",
+    "Mar�timo": 597,
+    "Terrestre": "",
+    "Total general": 2179
+  },
+  {
+    "Departamento1": "Magdalena",
+    "Meses": "Julio",
+    "A�reo": 1835,
+    "Fluvial": "",
+    "Mar�timo": 268,
+    "Terrestre": "",
+    "Total general": 2103
+  },
+  {
+    "Departamento1": "Magdalena",
+    "Meses": "Agosto",
+    "A�reo": 2605,
+    "Fluvial": "",
+    "Mar�timo": 387,
+    "Terrestre": "",
+    "Total general": 2992
+  },
+  {
+    "Departamento1": "Magdalena",
+    "Meses": "Septiembre",
+    "A�reo": 2254,
+    "Fluvial": "",
+    "Mar�timo": 409,
+    "Terrestre": "",
+    "Total general": 2663
+  },
+  {
+    "Departamento1": "Amazonas",
+    "Meses": "Enero",
+    "A�reo": 2046,
+    "Fluvial": 813,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 2859
+  },
+  {
+    "Departamento1": "Amazonas",
+    "Meses": "Febrero",
+    "A�reo": 1599,
+    "Fluvial": 944,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 2543
+  },
+  {
+    "Departamento1": "Amazonas",
+    "Meses": "Marzo",
+    "A�reo": 920,
+    "Fluvial": 902,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1822
+  },
+  {
+    "Departamento1": "Amazonas",
+    "Meses": "Abril",
+    "A�reo": 766,
+    "Fluvial": 762,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1528
+  },
+  {
+    "Departamento1": "Amazonas",
+    "Meses": "Mayo",
+    "A�reo": 913,
+    "Fluvial": 586,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1499
+  },
+  {
+    "Departamento1": "Amazonas",
+    "Meses": "Junio",
+    "A�reo": 1271,
+    "Fluvial": 493,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1764
+  },
+  {
+    "Departamento1": "Amazonas",
+    "Meses": "Julio",
+    "A�reo": 1640,
+    "Fluvial": 647,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 2287
+  },
+  {
+    "Departamento1": "Amazonas",
+    "Meses": "Agosto",
+    "A�reo": 1511,
+    "Fluvial": 210,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1721
+  },
+  {
+    "Departamento1": "Amazonas",
+    "Meses": "Septiembre",
+    "A�reo": 2025,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 2025
+  },
+  {
+    "Departamento1": "Quind�o",
+    "Meses": "Enero",
+    "A�reo": 2092,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 2092
+  },
+  {
+    "Departamento1": "Quind�o",
+    "Meses": "Febrero",
+    "A�reo": 1781,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1781
+  },
+  {
+    "Departamento1": "Quind�o",
+    "Meses": "Marzo",
+    "A�reo": 1897,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1897
+  },
+  {
+    "Departamento1": "Quind�o",
+    "Meses": "Abril",
+    "A�reo": 1684,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1684
+  },
+  {
+    "Departamento1": "Quind�o",
+    "Meses": "Mayo",
+    "A�reo": 1555,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1555
+  },
+  {
+    "Departamento1": "Quind�o",
+    "Meses": "Junio",
+    "A�reo": 2120,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 2120
+  },
+  {
+    "Departamento1": "Quind�o",
+    "Meses": "Julio",
+    "A�reo": 2469,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 2469
+  },
+  {
+    "Departamento1": "Quind�o",
+    "Meses": "Agosto",
+    "A�reo": 2126,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 2126
+  },
+  {
+    "Departamento1": "Quind�o",
+    "Meses": "Septiembre",
+    "A�reo": 1645,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1645
+  },
+  {
+    "Departamento1": "Putumayo",
+    "Meses": "Enero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 1135,
+    "Total general": 1135
+  },
+  {
+    "Departamento1": "Putumayo",
+    "Meses": "Febrero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 1237,
+    "Total general": 1237
+  },
+  {
+    "Departamento1": "Putumayo",
+    "Meses": "Marzo",
+    "A�reo": "",
+    "Fluvial": 1,
+    "Mar�timo": "",
+    "Terrestre": 1402,
+    "Total general": 1403
+  },
+  {
+    "Departamento1": "Putumayo",
+    "Meses": "Abril",
+    "A�reo": "",
+    "Fluvial": 5,
+    "Mar�timo": "",
+    "Terrestre": 879,
+    "Total general": 884
+  },
+  {
+    "Departamento1": "Putumayo",
+    "Meses": "Mayo",
+    "A�reo": "",
+    "Fluvial": 5,
+    "Mar�timo": "",
+    "Terrestre": 887,
+    "Total general": 892
+  },
+  {
+    "Departamento1": "Putumayo",
+    "Meses": "Junio",
+    "A�reo": "",
+    "Fluvial": 3,
+    "Mar�timo": "",
+    "Terrestre": 905,
+    "Total general": 908
+  },
+  {
+    "Departamento1": "Putumayo",
+    "Meses": "Julio",
+    "A�reo": "",
+    "Fluvial": 3,
+    "Mar�timo": "",
+    "Terrestre": 1211,
+    "Total general": 1214
+  },
+  {
+    "Departamento1": "Putumayo",
+    "Meses": "Agosto",
+    "A�reo": "",
+    "Fluvial": 7,
+    "Mar�timo": "",
+    "Terrestre": 1325,
+    "Total general": 1332
+  },
+  {
+    "Departamento1": "Putumayo",
+    "Meses": "Septiembre",
+    "A�reo": "",
+    "Fluvial": 2,
+    "Mar�timo": "",
+    "Terrestre": 923,
+    "Total general": 925
+  },
+  {
+    "Departamento1": "Santander",
+    "Meses": "Enero",
+    "A�reo": 1122,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 1122
+  },
+  {
+    "Departamento1": "Santander",
+    "Meses": "Febrero",
+    "A�reo": 592,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 592
+  },
+  {
+    "Departamento1": "Santander",
+    "Meses": "Marzo",
+    "A�reo": 764,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 764
+  },
+  {
+    "Departamento1": "Santander",
+    "Meses": "Abril",
+    "A�reo": 622,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 622
+  },
+  {
+    "Departamento1": "Santander",
+    "Meses": "Mayo",
+    "A�reo": 625,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 625
+  },
+  {
+    "Departamento1": "Santander",
+    "Meses": "Junio",
+    "A�reo": 662,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 662
+  },
+  {
+    "Departamento1": "Santander",
+    "Meses": "Julio",
+    "A�reo": 765,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 765
+  },
+  {
+    "Departamento1": "Santander",
+    "Meses": "Agosto",
+    "A�reo": 688,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 688
+  },
+  {
+    "Departamento1": "Santander",
+    "Meses": "Septiembre",
+    "A�reo": 861,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 861
+  },
+  {
+    "Departamento1": "Arauca",
+    "Meses": "Enero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 973,
+    "Total general": 973
+  },
+  {
+    "Departamento1": "Arauca",
+    "Meses": "Febrero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 732,
+    "Total general": 732
+  },
+  {
+    "Departamento1": "Arauca",
+    "Meses": "Marzo",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 728,
+    "Total general": 728
+  },
+  {
+    "Departamento1": "Arauca",
+    "Meses": "Abril",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 585,
+    "Total general": 585
+  },
+  {
+    "Departamento1": "Arauca",
+    "Meses": "Mayo",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 472,
+    "Total general": 472
+  },
+  {
+    "Departamento1": "Arauca",
+    "Meses": "Junio",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 535,
+    "Total general": 535
+  },
+  {
+    "Departamento1": "Arauca",
+    "Meses": "Julio",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 657,
+    "Total general": 657
+  },
+  {
+    "Departamento1": "Arauca",
+    "Meses": "Agosto",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 681,
+    "Total general": 681
+  },
+  {
+    "Departamento1": "Arauca",
+    "Meses": "Septiembre",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": 641,
+    "Total general": 641
+  },
+  {
+    "Departamento1": "Choco",
+    "Meses": "Enero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 511,
+    "Terrestre": "",
+    "Total general": 511
+  },
+  {
+    "Departamento1": "Choco",
+    "Meses": "Febrero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 491,
+    "Terrestre": "",
+    "Total general": 491
+  },
+  {
+    "Departamento1": "Choco",
+    "Meses": "Marzo",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 413,
+    "Terrestre": "",
+    "Total general": 413
+  },
+  {
+    "Departamento1": "Choco",
+    "Meses": "Abril",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 464,
+    "Terrestre": "",
+    "Total general": 464
+  },
+  {
+    "Departamento1": "Choco",
+    "Meses": "Mayo",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 370,
+    "Terrestre": "",
+    "Total general": 370
+  },
+  {
+    "Departamento1": "Choco",
+    "Meses": "Junio",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 226,
+    "Terrestre": "",
+    "Total general": 226
+  },
+  {
+    "Departamento1": "Choco",
+    "Meses": "Julio",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 281,
+    "Terrestre": "",
+    "Total general": 281
+  },
+  {
+    "Departamento1": "Choco",
+    "Meses": "Agosto",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 249,
+    "Terrestre": "",
+    "Total general": 249
+  },
+  {
+    "Departamento1": "Choco",
+    "Meses": "Septiembre",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 161,
+    "Terrestre": "",
+    "Total general": 161
+  },
+  {
+    "Departamento1": "Vichada",
+    "Meses": "Enero",
+    "A�reo": "",
+    "Fluvial": 157,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 157
+  },
+  {
+    "Departamento1": "Vichada",
+    "Meses": "Febrero",
+    "A�reo": "",
+    "Fluvial": 81,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 81
+  },
+  {
+    "Departamento1": "Vichada",
+    "Meses": "Marzo",
+    "A�reo": "",
+    "Fluvial": 94,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 94
+  },
+  {
+    "Departamento1": "Vichada",
+    "Meses": "Abril",
+    "A�reo": "",
+    "Fluvial": 100,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 100
+  },
+  {
+    "Departamento1": "Vichada",
+    "Meses": "Mayo",
+    "A�reo": "",
+    "Fluvial": 74,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 74
+  },
+  {
+    "Departamento1": "Vichada",
+    "Meses": "Junio",
+    "A�reo": "",
+    "Fluvial": 53,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 53
+  },
+  {
+    "Departamento1": "Vichada",
+    "Meses": "Julio",
+    "A�reo": "",
+    "Fluvial": 151,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 151
+  },
+  {
+    "Departamento1": "Vichada",
+    "Meses": "Agosto",
+    "A�reo": "",
+    "Fluvial": 219,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 219
+  },
+  {
+    "Departamento1": "Vichada",
+    "Meses": "Septiembre",
+    "A�reo": "",
+    "Fluvial": 143,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 143
+  },
+  {
+    "Departamento1": "Cesar",
+    "Meses": "Abril",
+    "A�reo": 128,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 128
+  },
+  {
+    "Departamento1": "Cesar",
+    "Meses": "Mayo",
+    "A�reo": 300,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 300
+  },
+  {
+    "Departamento1": "Cundinamarca",
+    "Meses": "Julio",
+    "A�reo": 160,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 160
+  },
+  {
+    "Departamento1": "Cundinamarca",
+    "Meses": "Agosto",
+    "A�reo": 177,
+    "Fluvial": "",
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 177
+  },
+  {
+    "Departamento1": "Sucre",
+    "Meses": "Enero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 27,
+    "Terrestre": "",
+    "Total general": 27
+  },
+  {
+    "Departamento1": "Sucre",
+    "Meses": "Febrero",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 34,
+    "Terrestre": "",
+    "Total general": 34
+  },
+  {
+    "Departamento1": "Sucre",
+    "Meses": "Marzo",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 35,
+    "Terrestre": "",
+    "Total general": 35
+  },
+  {
+    "Departamento1": "Sucre",
+    "Meses": "Abril",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 42,
+    "Terrestre": "",
+    "Total general": 42
+  },
+  {
+    "Departamento1": "Sucre",
+    "Meses": "Mayo",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 44,
+    "Terrestre": "",
+    "Total general": 44
+  },
+  {
+    "Departamento1": "Sucre",
+    "Meses": "Junio",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 34,
+    "Terrestre": "",
+    "Total general": 34
+  },
+  {
+    "Departamento1": "Sucre",
+    "Meses": "Julio",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 15,
+    "Terrestre": "",
+    "Total general": 15
+  },
+  {
+    "Departamento1": "Sucre",
+    "Meses": "Agosto",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 25,
+    "Terrestre": "",
+    "Total general": 25
+  },
+  {
+    "Departamento1": "Sucre",
+    "Meses": "Septiembre",
+    "A�reo": "",
+    "Fluvial": "",
+    "Mar�timo": 68,
+    "Terrestre": "",
+    "Total general": 68
+  },
+  {
+    "Departamento1": "Guain�a",
+    "Meses": "Enero",
+    "A�reo": "",
+    "Fluvial": 35,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 35
+  },
+  {
+    "Departamento1": "Guain�a",
+    "Meses": "Febrero",
+    "A�reo": "",
+    "Fluvial": 43,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 43
+  },
+  {
+    "Departamento1": "Guain�a",
+    "Meses": "Marzo",
+    "A�reo": "",
+    "Fluvial": 29,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 29
+  },
+  {
+    "Departamento1": "Guain�a",
+    "Meses": "Abril",
+    "A�reo": "",
+    "Fluvial": 34,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 34
+  },
+  {
+    "Departamento1": "Guain�a",
+    "Meses": "Mayo",
+    "A�reo": "",
+    "Fluvial": 41,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 41
+  },
+  {
+    "Departamento1": "Guain�a",
+    "Meses": "Junio",
+    "A�reo": "",
+    "Fluvial": 21,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 21
+  },
+  {
+    "Departamento1": "Guain�a",
+    "Meses": "Julio",
+    "A�reo": "",
+    "Fluvial": 23,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 23
+  },
+  {
+    "Departamento1": "Guain�a",
+    "Meses": "Agosto",
+    "A�reo": "",
+    "Fluvial": 14,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 14
+  },
+  {
+    "Departamento1": "Guain�a",
+    "Meses": "Septiembre",
+    "A�reo": "",
+    "Fluvial": 26,
+    "Mar�timo": "",
+    "Terrestre": "",
+    "Total general": 26
+  },
+  {
+    "Departamento1": "Total general",
+    "Meses": "",
+    "A�reo": 6384654,
+    "Fluvial": 6721,
+    "Mar�timo": 46754,
+    "Terrestre": 433721,
+    "Total general": 6871850
+  }
+]
