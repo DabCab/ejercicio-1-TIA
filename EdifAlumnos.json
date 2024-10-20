@@ -1,0 +1,22 @@
+[  
+  {
+    "Edificio": "A",
+    "Alumnos": 30
+  },
+  {
+    "Edificio": "B",
+    "Alumnos": 52
+  },
+  {
+    "Edificio": "C",
+    "Alumnos": 64
+  },
+  {
+    "Edificio": "D",
+    "Alumnos": 78
+  },
+  {
+    "Edificio": "E",
+    "Alumnos": 95
+  }
+]
