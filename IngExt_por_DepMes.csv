@@ -1,22 +1,22 @@
-Departamento1	Meses	AÈreo	Fluvial	MarÌtimo	Terrestre	Total general
-Bogot·	Enero	405823				405823
-Bogot·	Febrero	407158				407158
-Bogot·	Marzo	413599				413599
-Bogot·	Abril	360787				360787
-Bogot·	Mayo	344659				344659
-Bogot·	Junio	371605				371605
-Bogot·	Julio	419889				419889
-Bogot·	Agosto	462031				462031
-Bogot·	Septiembre	390731				390731
-AntioquÌa	Enero	149130		16		149146
-AntioquÌa	Febrero	146446		7		146453
-AntioquÌa	Marzo	146785		8		146793
-AntioquÌa	Abril	141540		7		141547
-AntioquÌa	Mayo	151137		14		151151
-AntioquÌa	Junio	142513		2		142515
-AntioquÌa	Julio	180261		7		180268
-AntioquÌa	Agosto	182823		10		182833
-AntioquÌa	Septiembre	149371		19		149390
+Departamento1	Meses	A√©reo	Fluvial	Mar√≠timo	Terrestre	Total general
+Bogot√°	Enero	405823				405823
+Bogot√°	Febrero	407158				407158
+Bogot√°	Marzo	413599				413599
+Bogot√°	Abril	360787				360787
+Bogot√°	Mayo	344659				344659
+Bogot√°	Junio	371605				371605
+Bogot√°	Julio	419889				419889
+Bogot√°	Agosto	462031				462031
+Bogot√°	Septiembre	390731				390731
+Antioqu√≠a	Enero	149130		16		149146
+Antioqu√≠a	Febrero	146446		7		146453
+Antioqu√≠a	Marzo	146785		8		146793
+Antioqu√≠a	Abril	141540		7		141547
+Antioqu√≠a	Mayo	151137		14		151151
+Antioqu√≠a	Junio	142513		2		142515
+Antioqu√≠a	Julio	180261		7		180268
+Antioqu√≠a	Agosto	182823		10		182833
+Antioqu√≠a	Septiembre	149371		19		149390
 Bolivar	Enero	108943		3751		112694
 Bolivar	Febrero	107773		2754		110527
 Bolivar	Marzo	112304		4817		117121
@@ -44,15 +44,15 @@ Valle del Cauca	Junio	23457		1190		24647
 Valle del Cauca	Julio	23428		1089		24517
 Valle del Cauca	Agosto	23515		1306		24821
 Valle del Cauca	Septiembre	16337		1183		17520
-NariÒo	Enero			125	13227	13352
-NariÒo	Febrero			88	16537	16625
-NariÒo	Marzo			178	16487	16665
-NariÒo	Abril			241	12629	12870
-NariÒo	Mayo			156	14408	14564
-NariÒo	Junio			127	12565	12692
-NariÒo	Julio			172	18866	19038
-NariÒo	Agosto			143	26753	26896
-NariÒo	Septiembre			91	13780	13871
+Nari√±o	Enero			125	13227	13352
+Nari√±o	Febrero			88	16537	16625
+Nari√±o	Marzo			178	16487	16665
+Nari√±o	Abril			241	12629	12870
+Nari√±o	Mayo			156	14408	14564
+Nari√±o	Junio			127	12565	12692
+Nari√±o	Julio			172	18866	19038
+Nari√±o	Agosto			143	26753	26896
+Nari√±o	Septiembre			91	13780	13871
 Atlantico	Enero	11419		109		11528
 Atlantico	Febrero	12330		156		12486
 Atlantico	Marzo	11670		209		11879
@@ -80,15 +80,15 @@ Risaralda	Junio	5362				5362
 Risaralda	Julio	6791				6791
 Risaralda	Agosto	6744				6744
 Risaralda	Septiembre	4227				4227
-San AndrÈs y Providencia	Enero	3732		102		3834
-San AndrÈs y Providencia	Febrero	4369		226		4595
-San AndrÈs y Providencia	Marzo	4465		145		4610
-San AndrÈs y Providencia	Abril	4029		148		4177
-San AndrÈs y Providencia	Mayo	4294		105		4399
-San AndrÈs y Providencia	Junio	3926		14		3940
-San AndrÈs y Providencia	Julio	4184		78		4262
-San AndrÈs y Providencia	Agosto	4541		36		4577
-San AndrÈs y Providencia	Septiembre	3822		28		3850
+San Andr√©s y Providencia	Enero	3732		102		3834
+San Andr√©s y Providencia	Febrero	4369		226		4595
+San Andr√©s y Providencia	Marzo	4465		145		4610
+San Andr√©s y Providencia	Abril	4029		148		4177
+San Andr√©s y Providencia	Mayo	4294		105		4399
+San Andr√©s y Providencia	Junio	3926		14		3940
+San Andr√©s y Providencia	Julio	4184		78		4262
+San Andr√©s y Providencia	Agosto	4541		36		4577
+San Andr√©s y Providencia	Septiembre	3822		28		3850
 Magdalena	Enero	1929		508		2437
 Magdalena	Febrero	2166		336		2502
 Magdalena	Marzo	2053		477		2530
@@ -107,15 +107,15 @@ Amazonas	Junio	1271	493			1764
 Amazonas	Julio	1640	647			2287
 Amazonas	Agosto	1511	210			1721
 Amazonas	Septiembre	2025				2025
-QuindÌo	Enero	2092				2092
-QuindÌo	Febrero	1781				1781
-QuindÌo	Marzo	1897				1897
-QuindÌo	Abril	1684				1684
-QuindÌo	Mayo	1555				1555
-QuindÌo	Junio	2120				2120
-QuindÌo	Julio	2469				2469
-QuindÌo	Agosto	2126				2126
-QuindÌo	Septiembre	1645				1645
+Quind√≠o	Enero	2092				2092
+Quind√≠o	Febrero	1781				1781
+Quind√≠o	Marzo	1897				1897
+Quind√≠o	Abril	1684				1684
+Quind√≠o	Mayo	1555				1555
+Quind√≠o	Junio	2120				2120
+Quind√≠o	Julio	2469				2469
+Quind√≠o	Agosto	2126				2126
+Quind√≠o	Septiembre	1645				1645
 Putumayo	Enero				1135	1135
 Putumayo	Febrero				1237	1237
 Putumayo	Marzo		1		1402	1403
@@ -174,13 +174,13 @@ Sucre	Junio			34		34
 Sucre	Julio			15		15
 Sucre	Agosto			25		25
 Sucre	Septiembre			68		68
-GuainÌa	Enero		35			35
-GuainÌa	Febrero		43			43
-GuainÌa	Marzo		29			29
-GuainÌa	Abril		34			34
-GuainÌa	Mayo		41			41
-GuainÌa	Junio		21			21
-GuainÌa	Julio		23			23
-GuainÌa	Agosto		14			14
-GuainÌa	Septiembre		26			26
+Guain√≠a	Enero		35			35
+Guain√≠a	Febrero		43			43
+Guain√≠a	Marzo		29			29
+Guain√≠a	Abril		34			34
+Guain√≠a	Mayo		41			41
+Guain√≠a	Junio		21			21
+Guain√≠a	Julio		23			23
+Guain√≠a	Agosto		14			14
+Guain√≠a	Septiembre		26			26
 Total general		6384654	6721	46754	433721	6871850
